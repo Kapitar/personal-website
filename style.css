@@ -1,0 +1,18 @@
+body {
+    background: white;
+}
+
+h1,
+p {
+    text-align: center;
+    color: green;
+}
+
+img {
+    width: 200px;
+}
+
+li {
+    color: red;
+    text-align: center;
+}
